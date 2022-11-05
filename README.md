@@ -1,2 +1,6 @@
 # MNIST-classification-OpenCV
-Classifying digits with the help of the MNIST dataset using OpenCV and it's Random Forest library to get an accuracy of 96%
+### Datasets used: 
+- [Digits Recognizer](https://www.kaggle.com/competitions/digit-recognizer) 
+- [For testing the model with jpg](https://www.kaggle.com/datasets/scolianni/mnistasjpg)
+
+### [Kaggle Notebook](https://www.kaggle.com/code/apeksha23/96-mnist-classification-using-ml-and-opencv/notebook)
